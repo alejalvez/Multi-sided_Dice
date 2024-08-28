@@ -1,7 +1,7 @@
 # Poly_Die
 Bonus project from Professor Biediger's COSC 4370 of summer 2024.
 
-This code will display a multi-sided die based on key inputs. The key press of the number 0 should will the texture the tetrahedron, 1 the cube, 2 the octahedron, 3 the dodecahedron, and 4 the icosahedron. Each die is created, textured, colored, and shaded using OpenGL.
+This code will display a multi-sided die based on key inputs. The key press of the number 0 will display the tetrahedron, 1 the cube, 2 the octahedron, 3 the dodecahedron, and 4 the icosahedron. Each die is created, textured, colored, and shaded using OpenGL.
 
 The requisite shape_dictionary.py file lists all the elements need to make each of the shapes. I figured it would be easier to read then have all at once.
 
